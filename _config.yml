@@ -29,7 +29,7 @@ domain: daveknippers.github.io
 url: https://daveknippers.github.io
 
 # Build settings
-theme: dinky
+theme: minima
 plugins:
   - jekyll-feed
 
