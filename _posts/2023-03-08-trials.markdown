@@ -12,3 +12,5 @@ i'd like to do some non-linear interpolation between points. I'd like it so the 
 How it’s going:
 
 ![nice counting](/assets/inf.png)
+
+tell me again how the robots are coming for my job
