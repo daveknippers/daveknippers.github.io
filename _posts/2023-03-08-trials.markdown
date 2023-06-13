@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "thanks you stupid bitch robot"
+date:   2023-03-08 14:05:08 -0600
+categories: chatgpt interpolation algorithm
+---
+
+How it started:
+
+i'd like to do some non-linear interpolation between points. I'd like it so the points are more dense on one end, and the interval of last two points on the less dense end having a specified maximum value. the keywords around what i'm trying to do are "expansion ratio". what are my options?
+
+How it’s going:
+
+![nice counting](/assets/inf.png)

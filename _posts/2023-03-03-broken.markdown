@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "it is broken in develop"
+date:   2023-03-03 12:04:01 -0600
+categories: development
+---
+
+imagine you show up to a party and there's an elephant in the bathroom. you test to make sure it's an elephant but all your test cases are based on your zoo experience, but based on that, you're pretty sure the elephant is broken because it's dead. what works with the elephant in the background is that it's covered in peanuts. at some point i started writing this comparison to explain why i wouldn't bother worrying too much about it, but it fell apart, and now i’m left here writing about an elephant
+
+fuck it
+
+i hit "submit”
+
+you’re on your own
